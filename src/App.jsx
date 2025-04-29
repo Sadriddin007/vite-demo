@@ -10,11 +10,6 @@ function App() {
       <div className='text-red-500 text-3xl'>sadriddin - vite demo</div>
       <div className='text-red-500 text-3xl'>sadriddin - vite demo</div>
       <div className='text-red-500 text-3xl'>sadriddin - vite demo</div>
-      <div className='text-red-500 text-3xl'>sadriddin - vite demo</div>
-      <div className='text-red-500 text-3xl'>sadriddin - vite demo</div>
-      <div className='text-red-500 text-3xl'>sadriddin - vite demo</div>
-      <div className='text-red-500 text-3xl'>sadriddin - vite demo</div>
-      <div className='text-red-500 text-3xl'>sadriddin - vite demo</div>
     </>
   )
 }
